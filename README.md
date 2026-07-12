@@ -59,9 +59,10 @@ Passionate about building intelligent AI agents and ML Models to solve real worl
   <h2 style="color: #ff0000;">❝</h2>
   <h3>न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।</h3>
   <p><i>na hi jñānena sadṛśaṃ pavitramiha vidyate</i></p>
+  <h2 style="color: #ff0000;">❞</h2>
   <p><b>Truly, there is nothing in this world as purifying as knowledge.</b></p>
   <p><i style="color: gray;">— Bhagavad Gita (Chapter 4, Verse 38)</i></p>
-  <h2 style="color: #ff0000;">❞</h2>
+  
 </div>
 
 ---
