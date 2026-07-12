@@ -53,7 +53,6 @@ Passionate about building intelligent AI agents and ML Models to solve real worl
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sankalphs&bg_color=00000000&color=ff0000&line=ff0000&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
 
 <div align="center">
   <h2 style="color: #ff0000;">❝</h2>
